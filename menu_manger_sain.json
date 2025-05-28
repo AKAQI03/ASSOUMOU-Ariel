@@ -1,0 +1,507 @@
+[
+  {
+    "id": 1,
+    "image": "../image/foods/attiéké-poisson.png",
+    "nom": "Attiéké-Poisson",
+    "desc": "Attiéké accompagné de poisson braisé",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "5000 FCFA"
+  },
+  {
+    "id": 2,
+    "image": "../image/foods/pouletkedjenou.png",
+    "nom": "Poulet Kedjenou",
+    "desc": "Poulet mijoté aux légumes frais",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "6500 FCFA"
+  },
+  {
+    "id": 3,
+    "image": "../image/foods/garbaroyal.png",
+    "nom": "Garba",
+    "desc": "Attiéké, poisson, condiments",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "7000 FCFA"
+  },
+  {
+    "id": 4,
+    "image": "../image/foods/rizgrasaupoulet.png",
+    "nom": "Riz gras au poulet",
+    "desc": "Riz parfumé au poulet et légumes",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "4500 FCFA"
+  },
+  {
+    "id": 5,
+    "image": "../image/foods/tcheppoisson.png",
+    "nom": "Tchep poisson",
+    "desc": "Riz au poisson à la sénégalaise",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "5500 FCFA"
+  },
+  {
+    "id": 6,
+    "image": "../image/foods/rizsaucegraineviande.png",
+    "nom": "Riz sauce graine + viande",
+    "desc": "Viande tendre dans une sauce graine",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "5000 FCFA"
+  },
+  {
+    "id": 7,
+    "image": "../image/foods/rizsaucearachidepoulet.png",
+    "nom": "Riz sauce arachide + poulet",
+    "desc": "Poulet accompagné de sauce arachide",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "5000 FCFA"
+  },
+  {
+    "id": 8,
+    "image": "../image/foods/foutoubananesauceclaire.png",
+    "nom": "Foutou banane sauce claire",
+    "desc": "Foutou banane avec sauce claire au poisson",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "6000 FCFA"
+  },
+  {
+    "id": 9,
+    "image": "../image/foods/foutouignamesaucegraine.png",
+    "nom": "Foutou igname sauce djougblé",
+    "desc": "Foutou igname avec sauce graine de bœuf",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "6500 FCFA"
+  },
+  {
+    "id": 13,
+    "image": "../image/foods/akpanetpoissonfrit.png",
+    "nom": "Kôm et poisson frit",
+    "desc": "Akpan frais servi avec poisson frit",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "4000 FCFA"
+  },
+
+  {
+    "id": 15,
+    "image": "../image/foods/allocoœufspoissonfrit.png",
+    "nom": "Alloco + œufs ",
+    "desc": "Alloco servi avec œufs et poisson frit",
+    "localité": "africain",
+    "catégorie": "entrées",
+    "prix": "4000 FCFA"
+  },
+  {
+    "id": 17,
+    "image": "../image/foods/légumessautésaupoissonfumé.png",
+    "nom": " poisson fumé",
+    "desc": "Mélange de légumes au poisson fumé",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "5000 FCFA"
+  },
+  {
+    "id": 19,
+    "image": "../image/foods/spaghettisaucetomatelocale.png",
+    "nom": "Spaghetti + sauce tomate locale",
+    "desc": "Spaghetti avec sauce tomate locale",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "3500 FCFA"
+  },
+  {
+    "id": 20,
+    "image": "../image/foods/porcbraiséattiéké.png",
+    "nom": "Porc grillé sauté révenir",
+    "desc": "Porc braisé servi avec attiéké",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "6000 FCFA"
+  },
+  {
+    "id": 21,
+    "image": "../image/foods/brochettesdebœufépicées.png",
+    "nom": "Brochettes de bœuf épicées",
+    "desc": "Brochettes grillées aux épices africaines",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "3000 FCFA"
+  },
+  {
+    "id": 22,
+    "image": "../image/foods/haricotsaucebananeplantain.png",
+    "nom": "Haricot sauce + banane plantain",
+    "desc": "Haricot mijoté avec banane plantain",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "4500 FCFA"
+  },
+  {
+    "id": 23,
+    "image": "../image/foods/couscousivoirienauragoût.png",
+    "nom": "Couscous ivoirien au ragoût",
+    "desc": "Couscous local accompagné de sauce ragoût",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "5000 FCFA"
+  },
+  {
+    "id": 24,
+    "image": "../image/foods/porridgedemilaulait.png",
+    "nom": "Porridge de mil au lait",
+    "desc": "Bouillie de mil au lait sucré",
+    "localité": "africain",
+    "catégorie": "dessert",
+    "prix": "3000 FCFA"
+  },
+  {
+    "id": 25,
+    "image": "../image/foods/omelettespécialeivoirienne.png",
+    "nom": "Omelette spéciale ivoirienne",
+    "desc": "Omelette aux légumes et piment",
+    "localité": "africain",
+    "catégorie": "principals",
+    "prix": "3500 FCFA"
+  },
+  {
+    "id": 26,
+    "image": "../image/foods/spaghettibolognaise.png",
+    "nom": "Spaghetti Bolognaise",
+    "desc": "Spaghetti avec sauce bolognaise maison",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "6000 FCFA"
+  },
+  {
+    "id": 27,
+    "image": "../image/foods/steakfrites.png",
+    "nom": "Steak frites",
+    "desc": "Steak tendre accompagné de frites",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "8500 FCFA"
+  },
+  {
+    "id": 28,
+    "image": "../image/foods/saladecésar.png",
+    "nom": "Salade César",
+    "desc": "Salade croquante au poulet grillé",
+    "localité": "europeen",
+    "catégorie": "entrées",
+    "prix": "5500 FCFA"
+  },
+  {
+    "id": 29,
+    "image": "../image/foods/escalopedepouletpanée.png",
+    "nom": "Escalope de poulet panée",
+    "desc": "Poulet pané servi croustillant",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "6500 FCFA"
+  },
+  {
+    "id": 30,
+    "image": "../image/foods/gratindauphinois.png",
+    "nom": "Gratin dauphinois",
+    "desc": "Pommes de terre gratinées au four",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "5500 FCFA"
+  },
+  {
+    "id": 31,
+    "image": "../image/foods/quichelorraine.png",
+    "nom": "Quiche Lorraine",
+    "desc": "Tarte salée au jambon et fromage",
+    "localité": "europeen",
+    "catégorie": "dessert",
+    "prix": "4500 FCFA"
+  },
+  {
+    "id": 32,
+    "image": "../image/foods/pâtesaupesto.png",
+    "nom": "Pâtes au pesto",
+    "desc": "Pâtes fraîches au pesto maison",
+    "localité": "europeen",
+    "catégorie": "entrées",
+    "prix": "5000 FCFA"
+  },
+  {
+    "id": 33,
+    "image": "../image/foods/ratatouilleauxlégumesgrillés.png",
+    "nom": "Ratatouille aux légumes grillés",
+    "desc": "Légumes méditerranéens sautés",
+    "localité": "europeen",
+    "catégorie": "entrées",
+    "prix": "4500 FCFA"
+  },
+  {
+    "id": 34,
+    "image": "../image/foods/pouletrôtiàlamoutarde.png",
+    "nom": "Poulet rôti à la moutarde",
+    "desc": "Poulet rôti sauce moutarde",
+    "localité": "europeen",
+    "catégorie": "dessert",
+    "prix": "6000 FCFA"
+  },
+  {
+    "id": 35,
+    "image": "../image/foods/couscousroyal.png",
+    "nom": "Couscous royal",
+    "desc": "Couscous aux viandes et légumes",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "7000 FCFA"
+  },
+  {
+    "id": 36,
+    "image": "../image/foods/lasagnesàlaviande.png",
+    "nom": "Lasagnes à la viande",
+    "desc": "Lasagnes maison à la bolognaise",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "6500 FCFA"
+  },
+  {
+    "id": 37,
+    "image": "../image/foods/risottoauxchampignons.png",
+    "nom": "Risotto aux champignons",
+    "desc": "Riz crémeux aux champignons",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "6000 FCFA"
+  },
+  {
+    "id": 38,
+    "image": "../image/foods/tarteauthonetsalade.png",
+    "nom": "Tarte au thon et salade",
+    "desc": "Tarte salée au thon accompagnée",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "5000 FCFA"
+  },
+  {
+    "id": 39,
+    "image": "../image/foods/filetdepoissonsaucecitron.png",
+    "nom": "Filet de poisson sauce citron",
+    "desc": "Poisson tendre à la sauce citron",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "6000 FCFA"
+  },
+  {
+    "id": 40,
+    "image": "../image/foods/pouletàlacrèmetagliatelles.png",
+    "nom": "Poulet à la crème + tagliatelles",
+    "desc": "Poulet tendre à la crème fraîche",
+    "localité": "europeen",
+    "catégorie": "dessert",
+    "prix": "6500 FCFA"
+  },
+  {
+    "id": 41,
+    "image": "../image/foods/pizzamargarita.png",
+    "nom": "Pizza margarita",
+    "desc": "Pizza classique au fromage",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "4500 FCFA"
+  },
+  {
+    "id": 42,
+    "image": "../image/foods/pizza4fromages.png",
+    "nom": "Pizza 4 fromages",
+    "desc": "Pizza gourmande aux 4 fromages",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "5500 FCFA"
+  },
+  {
+    "id": 43,
+    "image": "../image/foods/burgermaisonfrites.png",
+    "nom": "Burger maison + frites",
+    "desc": "Burger artisanal avec frites maison",
+    "localité": "europeen",
+    "catégorie": "entrées",
+    "prix": "5500 FCFA"
+  },
+  {
+    "id": 44,
+    "image": "../image/foods/clubsandwich.png",
+    "nom": "Club sandwich",
+    "desc": "Sandwich complet au poulet",
+    "localité": "europeen",
+    "catégorie": "entrées",
+    "prix": "4000 FCFA"
+  },
+  {
+    "id": 45,
+    "image": "../image/foods/painviandeomelette.png",
+    "nom": "Pain viande + omelette",
+    "desc": "Pain garni d’omelette et viande",
+    "localité": "europeen",
+    "catégorie": "entrées",
+    "prix": "3000 FCFA"
+  },
+  {
+    "id": 46,
+    "image": "../image/foods/soupedelégumes.png",
+    "nom": "Soupe de légumes",
+    "desc": "Soupe chaude de légumes frais",
+    "localité": "europeen",
+    "catégorie": "dessert",
+    "prix": "3500 FCFA"
+  },
+  {
+    "id": 47,
+    "image": "../image/foods/saladeniçoise.png",
+    "nom": "Salade niçoise",
+    "desc": "Salade froide au thon et œufs",
+    "localité": "europeen",
+    "catégorie": "principals",
+    "prix": "4500 FCFA"
+  },
+  {
+    "id": 50,
+    "image": "../image/foods/crêpessaléesaujambon.png",
+    "nom": "Crêpes salées au jambon",
+    "desc": "Crêpes garnies de jambon et fromage",
+    "localité": "europeen",
+    "catégorie": "entrées",
+    "prix": "4000 FCFA"
+  },
+  {
+    "id": 1,
+    "image": "../image/foods/bissap.png",
+    "nom": "Bissap",
+    "desc": "Infusion d'hibiscus sucrée, servie fraîche",
+    "localité": "africain",
+    "catégorie": "boisson",
+    "prix": "1000 FCFA"
+  },
+  {
+    "id": 2,
+    "image": "../image/foods/kombucha.png",
+    "nom": "Kombucha à la clémentine",
+    "desc": "Boisson fermentée acidulée aux notes fruitées",
+    "localité": "europeen",
+    "catégorie": "boisson",
+    "prix": "2500 FCFA"
+  },
+  {
+    "id": 3,
+    "image": "../image/foods/tchapalo.png",
+    "nom": "Tchapalo",
+    "desc": "Bière artisanale à base de mil, légèrement sucrée",
+    "localité": "africain",
+    "catégorie": "boisson",
+    "prix": "500 FCFA"
+  },
+  {
+    "id": 4,
+    "image": "../image/foods/gingerbeer.png",
+    "nom": "Ginger Beer",
+    "desc": "Boisson pétillante au gingembre, sans alcool",
+    "localité": "europeen",
+    "catégorie": "boisson",
+    "prix": "2000 FCFA"
+  },
+  {
+    "id": 5,
+    "image": "../image/foods/bouye.png",
+    "nom": "Bouye",
+    "desc": "Jus de fruit de baobab, riche en vitamines",
+    "localité": "africain",
+    "catégorie": "boisson",
+    "prix": "1200 FCFA"
+  },
+  {
+    "id": 6,
+    "image": "../image/foods/kefir.png",
+    "nom": "Kéfir aux fruits rouges",
+    "desc": "Boisson fermentée légèrement pétillante",
+    "localité": "europeen",
+    "catégorie": "boisson",
+    "prix": "2300 FCFA"
+  },
+  {
+    "id": 8,
+    "image": "../image/foods/limonade.png",
+    "nom": "Limonade artisanale",
+    "desc": "Boisson gazeuse au citron, rafraîchissante",
+    "localité": "europeen",
+    "catégorie": "boisson",
+    "prix": "1800 FCFA"
+  },
+  {
+    "id": 9,
+    "image": "../image/foods/adoyo.png",
+    "nom": "Adoyo",
+    "desc": "Boisson béninoise à base de maïs fermenté et citron",
+    "localité": "africain",
+    "catégorie": "boisson",
+    "prix": "800 FCFA"
+  },
+  {
+    "id": 10,
+    "image": "../image/foods/spritz.png",
+    "nom": "Spritz",
+    "desc": "Cocktail italien à base d'Aperol et de Prosecco",
+    "localité": "europeen",
+    "catégorie": "boisson",
+    "prix": "3000 FCFA"
+  },
+  {
+    "id": 11,
+    "image": "../image/foods/vinpalme.png",
+    "nom": "Vin de palme",
+    "desc": "Boisson fermentée à base de sève de palmier",
+    "localité": "africain",
+    "catégorie": "boisson",
+    "prix": "1000 FCFA"
+  },
+  {
+    "id": 12,
+    "image": "../image/foods/cidre.png",
+    "nom": "Cidre brut",
+    "desc": "Boisson pétillante à base de pommes fermentées",
+    "localité": "europeen",
+    "catégorie": "boisson",
+    "prix": "2200 FCFA"
+  },
+  {
+    "id": 13,
+    "image": "../image/foods/gingembre.png",
+    "nom": "Jus de gingembre",
+    "desc": "Boisson épicée et rafraîchissante, servie fraîche",
+    "localité": "africain",
+    "catégorie": "boisson",
+    "prix": "1000 FCFA"
+  },
+  {
+    "id": 14,
+    "image": "../image/foods/aperol.png",
+    "nom": "Aperol Spritz",
+    "desc": "Cocktail italien à base d'Aperol, Prosecco et soda",
+    "localité": "europeen",
+    "catégorie": "boisson",
+    "prix": "3000 FCFA"
+  },
+  {
+    "id": 15,
+    "image": "../image/foods/baobab.png",
+    "nom": "Jus de baobab",
+    "desc": "Boisson crémeuse à base de pulpe de baobab",
+    "localité": "africain",
+    "catégorie": "boisson",
+    "prix": "1200 FCFA"
+  }
+]
