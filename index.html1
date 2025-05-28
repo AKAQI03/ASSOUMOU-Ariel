@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bienvenue sur mon site</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #4CAF50;
+    }
+    p {
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue sur mon site ! 🌍</h1>
+  <p>Ce site est hébergé grâce à GitHub Pages.</p>
+</body>
+</html>
